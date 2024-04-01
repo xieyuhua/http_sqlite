@@ -13,7 +13,7 @@ sqlite_http v0.0.0, based on sqlite v3.45.1
 
 ```
 
-> http://47.44.0.127:8007/xieyuhua
+> 47.44.0.127:8007/xieyuhua
 
 > Content-Type:  application/json
 
