@@ -1,4 +1,8 @@
 
+sqlite base http
+
+Fork https://github.com/proofrock/ws4sqlite
+
 # 安装
 ```
 [root@VM-16-5-centos http_sqlite]# go mod tidy
